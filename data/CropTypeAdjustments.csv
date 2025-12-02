@@ -1,0 +1,4 @@
+CropType,Baseline_total_mm,Observed_total_mm,Adjustment_factor,Observed_total_m3_per_rai,Note
+Oct-cane (อ้อยตุลา),1600,1734,1.084,2774.4,Use factor to scale stage volumes for Oct-cane
+Jan-cane (อ้อยนําราด),1600,1518,0.949,2428.8,Use factor to scale stage volumes for Jan-cane
+RT (อ้อยตอ),1600,1545,0.966,2472.0,Use factor to scale stage volumes for ratoon cane
