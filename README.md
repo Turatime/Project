@@ -1,5 +1,5 @@
-# Hello, I'm Turatorn 👋
-🎓 Computer Engineering Student at Thammasat University 
+# Hello, I'm Turatorn
+Computer Engineering Student at Thammasat University 
 
 **Programming Languages**  
 - Python, Java  
@@ -21,7 +21,7 @@
 - Discrete Mathematics  
 - Probability & Statistics  
 
-## 🚀 Projects & Experience
+## Projects & Experience
 
 ### Project in MITR PHOL GEN AI Hackathon 2025
 ### Legal Document Classification (MITR PHOL GEN AI Hackathon 2025)
