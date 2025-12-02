@@ -1,4 +1,3 @@
-# Project
 # Hello, I'm Turatorn 👋
 🎓 Computer Engineering Student at Thammasat University 
 
