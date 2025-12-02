@@ -32,4 +32,4 @@
 
 ## Contact
 - Email: tpandumrong@gmail.com
-- GitHub: github.com/turatorn
+- GitHub: github.com/Turatime
