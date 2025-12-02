@@ -23,10 +23,10 @@
 
 ## 🚀 Projects & Experience
 
-### 🌾 Project in MITR PHOL GEN AI Hackathon 2025
-### 📚 Legal Document Classification (MITR PHOL GEN AI Hackathon 2025)
-### 📸 Photo Booth System (Open House Engineering 2025 – Thammasat University)
-### ☄️ Cosmic Ray Data Analysis (Mahidol University – Internship) 
+### Project in MITR PHOL GEN AI Hackathon 2025
+### Legal Document Classification (MITR PHOL GEN AI Hackathon 2025)
+### Photo Booth System (Open House Engineering 2025 – Thammasat University)
+### Cosmic Ray Data Analysis (Mahidol University – Internship) 
 
 
 ## Contact
