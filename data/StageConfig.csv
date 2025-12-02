@@ -1,5 +1,0 @@
-Stage,Days,WaterNeed_mm_per_day,WaterNeed_total_mm,WaterNeed_total_m3_per_rai,IrrigationInterval_days_sand,IrrigationInterval_days_loam,IrrigationInterval_days_clay,Notes
-Germination (ระยะงอก),30,3.0,90.0,144.0,10–12,15–20,30,Critical: ensure soil moisture for uniform emergence
-Tillering (ระยะแตกกอ),140,4.5,630.0,1008.0,10–12,15–20,30,Critical: maintain steady supply; avoid stress
-Elongation (ระยะย่างปล้อง),125,6.4,800.0,1280.0,10–12,15–20,30,Most water-demanding; avoid deficit
-Maturity (ระยะสุกแก่),35,2.3,80.5,128.8,10–12,15–20,30,Reduce irrigation to enhance CCS; avoid waterlogging
